@@ -6,7 +6,7 @@
 
 ## 概述
 
-**[005] Variational-Backpack** 是 AlphaLabs 的双平台交易策略插件，同时支持 Lighter 和 Backpack 交易所的永续合约交易。
+**[013] Variational-Backpack** 是 AlphaLabs 的双平台交易策略插件，同时支持 Lighter 和 Backpack 交易所的永续合约交易。
 
 ### 核心特性
 
